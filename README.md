@@ -1,6 +1,4 @@
-# Seminario Git
-Introduzine a Git e a GitHub.
-
+# Introduzione a Git e GitHub
 Le informazioni riguardanti la configurazione di Git e la creazione di chiavi SSH per GitHub sono state recuperate dalle relative documentazioni ufficiali.
 
 ## Cos'è Git?
