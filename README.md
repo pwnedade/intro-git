@@ -20,7 +20,7 @@ GitHub è una piattaforma basata su web che ospita repository Git. Offre uno spa
 
 > Prima di proseguire con le seguenti istruzioni è fortemente consigliato aver già creato un account [GitHub](https://github.com/)
 
-1. Scarica git dal [sito ufficiale](https://git-scm.com/)
+1. Scarica Git dal [sito ufficiale](https://git-scm.com/)
 
 2. Seguiamo la configurazione secondo la guida ufficiale di [Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
@@ -30,7 +30,7 @@ GitHub è una piattaforma basata su web che ospita repository Git. Offre uno spa
     ```
     *consiglio: inserisci la stessa mail utilizzata per creare l'account GitHub*
 
-> Per verificare di aver inserito correttamente le istruzione puoi usare i seguenti comandi:
+> Per verificare di aver inserito correttamente i dati puoi usare i seguenti comandi:
 > ```bash
 > git config --global user.email
 > ```
@@ -92,4 +92,4 @@ ssh-add c:/Users/YOU/.ssh/id_ed25519
 - I primi due comandi servono per assicurarsi che il servizio ssh-agent sia in esecuzione.
 - Il secondo comando serve per aggiungere la chiave privata SSH all'ssh-agent.
 
-Dopo aver eseguito correttamente queste istruzioni potrai aggiungere la chiave pubblica al tuo profilo GitHub.
+Dopo aver eseguito correttamente queste istruzioni potrai aggiungere la chiave pubblica al tuo profilo GitHub andando in `Settings>SSH and GPG Keys>New SSH KEy`.
